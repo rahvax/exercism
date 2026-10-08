@@ -4,3 +4,6 @@
 .exercism/
 test-framework/
 *.out
+makefile
+MAKEFILE
+HELP.md
